@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+1. Music  :notes: :speaker:
+  * HIP-HOP
+  * R&B
+  * Classic
+2. Movies :movie_camera:
+  - Action
+  - Horror
+3. Sports :basketball: :soccer:
+  - Basketball :basketball:
+  - Tennis :tennis:
